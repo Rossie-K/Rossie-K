@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="image.jpg" alt="Peaceful image" width="100%">
+<p align="left">
+  <img src="image.jpg" alt="Peaceful image" width="15%">
 </p>
 
 # Hi, I'm RossieK🌸
