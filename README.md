@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="image.jpg" alt="Peaceful image" width="15%">
-</p>
-
-# Hi, I'm RossieK🌸
+![banner](https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=200&section=header&text=Hi%2C%20I'm%20RossieK🌸&fontSize=40&fontColor=ffffff)
 
 - 🔭 I’m currently working ...
 - 🌱 I’m currently learning; Java, Dart, Kotlin,...
